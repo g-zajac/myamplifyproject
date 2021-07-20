@@ -4,16 +4,12 @@
     <p>
       Amplify, Vue playground V 1.0.1
       - test analitics, custom event
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+
     </p>
   </div>
 </template>
 
 <script>
-
-// import Amplify, { Analytics } from 'aws-amplify';
-// Analytics.record({ name: 'siteVisit' });
-
 export default {
   name: 'HelloWorld',
   props: {
