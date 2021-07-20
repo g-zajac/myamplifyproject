@@ -11,8 +11,8 @@
 
 <script>
 
-import Amplify, { Analytics } from 'aws-amplify';
-Analytics.record({ name: 'siteVisit' });
+// import Amplify, { Analytics } from 'aws-amplify';
+// Analytics.record({ name: 'siteVisit' });
 
 export default {
   name: 'HelloWorld',
